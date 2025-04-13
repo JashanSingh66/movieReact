@@ -1,9 +1,9 @@
+
+# Movie Hub
+
 MovieHub is a simple and elegant movie search web application built with React.js. It uses the TMDB (The Movie Database) API to fetch and display movies, helping users discover trending and popular films or search for their favorites.
 
-
-
-🚀 Features
-🔍 Search Movies: Find movies by title using the TMDB API.
+🚀 Features 🔍 Search Movies: Find movies by title using the TMDB API.
 
 🎞️ Trending Movies: Displays a list of currently popular movies.
 
@@ -15,10 +15,12 @@ MovieHub is a simple and elegant movie search web application built with React.j
 
 🎨 Responsive Design: Works beautifully across devices
 
-
-🛠️ Tech Stack
-Frontend: React.js, Vite.js
+🛠️ Tech Stack Frontend: React.js, Vite.js
 
 Styling: Tailwind CSS
 
 API: TMDB API
+## Demo
+
+Insert gif or link to demo
+
