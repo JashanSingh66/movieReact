@@ -20,7 +20,5 @@ MovieHub is a simple and elegant movie search web application built with React.j
 Styling: Tailwind CSS
 
 API: TMDB API
-## Demo
 
-Insert gif or link to demo
 
